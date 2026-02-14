@@ -5,7 +5,7 @@ I lead a 16-person global SOC team delivering 24/7/365 cybersecurity operations 
 What I Focus On
 
 Engineering-driven security operations — Detection-as-Code, CI/CD pipelines for detection rules, and automation-first workflows
-Incident response & crisis leadership — 5 major incidents commanded, formal TT&E program established, CIRP completely rewritten
+Incident response & crisis leadership — major incidents commanded, formal TT&E program established, CIRP completely rewritten
 Building self-sustaining teams — Succession planning, structured career development, and operational documentation that enables independent execution
 
 Background
