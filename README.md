@@ -1,5 +1,5 @@
 Travis Mickelson
-Manager, Global Security Operations | Ecolab
+Senior Manager, Threat Management | Ecolab
 I lead a 16-person global SOC team delivering 24/7/365 cybersecurity operations for a Fortune 500 enterprise. I built this function from the ground up — from SIEM and SOAR to detection engineering and cyber threat intelligence.
 
 What I Focus On
